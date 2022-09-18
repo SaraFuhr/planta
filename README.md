@@ -9,6 +9,12 @@ qualquer texto aqui.
 ola ola ola ola
 
 coloque qualquer texto
+<<<<<<< HEAD
 
 <<<<<<<sara fuhr 9224329832>>>>>>>
-alteração da develop
+
+# alteração da develop
+
+Alteração vinda da master/main
+
+> > > > > > > main
